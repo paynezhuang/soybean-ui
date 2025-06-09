@@ -10,14 +10,14 @@
     "preview": "nuxt preview"
   },
   "dependencies": {
-    "@unocss/reset": "66.1.1",
-    "nuxt": "^3.17.3",
+    "@unocss/reset": "66.1.4",
+    "nuxt": "3.17.5",
     "soy-ui": "workspace:*",
-    "vue": "^3.5.13",
-    "vue-router": "^4.5.1"
+    "vue": "3.5.16",
+    "vue-router": "4.5.1"
   },
   "devDependencies": {
-    "@unocss/nuxt": "66.1.1",
-    "unocss": "66.1.1"
+    "@unocss/nuxt": "66.1.4",
+    "unocss": "66.1.4"
   }
 }
